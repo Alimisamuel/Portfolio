@@ -1,4 +1,4 @@
-# Krozo React Personal Portfolio Template
+# Alimi samuel portfolio 
 
 ## Description
 
